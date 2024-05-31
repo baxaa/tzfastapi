@@ -18,8 +18,9 @@ This is a FastAPI project that provides CRUD operations for managing students an
    git clone https://github.com/yourusername/yourproject.git
    cd yourproject
 2. **Run the FastAPI Server**
+  
   ```bash
-  uvicorn app.main:app --reload
+  uvicorn app.main:app --reload ```
 
 The server will start at http://127.0.0.1:8000.
 

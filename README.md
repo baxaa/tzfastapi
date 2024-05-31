@@ -23,4 +23,5 @@ This is a FastAPI project that provides CRUD operations for managing students an
      uvicorn app.main:app --reload
    
 3. **API Documentation**
-      Swagger UI: http://127.0.0.1:8000/docs
+   
+  Swagger UI: http://127.0.0.1:8000/docs

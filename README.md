@@ -19,5 +19,8 @@ This is a FastAPI project that provides CRUD operations for managing students an
    cd app
 2. **Run the FastAPI Server**
 
-  ```bash
-  uvicorn app.main:app --reload
+     ```bash
+     uvicorn app.main:app --reload
+   
+3. **API Documentation**
+      Swagger UI: http://127.0.0.1:8000/docs
